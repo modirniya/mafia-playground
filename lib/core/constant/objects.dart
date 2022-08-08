@@ -1,0 +1,1 @@
+enum FunctionAccessPoint { emulator, usCentral }

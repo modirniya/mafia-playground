@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371174587079",
+    "firebase_url": "https://mafia-p-383ff-default-rtdb.firebaseio.com",
+    "project_id": "mafia-p-383ff",
+    "storage_bucket": "mafia-p-383ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371174587079:android:9683a1e92349797e30dce2",
+        "android_client_info": {
+          "package_name": "studio.cyapp.mafia_playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371174587079-j0p2i25ub1ha370go13b2d6qaeil8mfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsS9lpktCan7MEZz_L3BPYzq-lUrTsnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371174587079-j0p2i25ub1ha370go13b2d6qaeil8mfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

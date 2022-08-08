@@ -1,0 +1,45 @@
+name: mafia_playground
+description: Mafia Playground app with Flutter
+
+publish_to: 'web'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  firebase_auth: ^3.4.2
+  firebase_core: ^1.19.2
+  http: ^0.13.4
+  equatable: ^2.0.3
+  flutterfire_ui: ^0.4.2+2
+  language_picker: ^0.4.1
+  country_pickers: ^2.0.0
+  dartz: ^0.10.1
+  # country_picker: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/images/banner.png
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/ubuntu/Ubuntu-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/ubuntu/Ubuntu-Light.ttf
+          weight: 300
+        - asset: assets/fonts/ubuntu/Ubuntu-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/ubuntu/Ubuntu-Regular.ttf
+          weight: 400
+  uses-material-design: true
