@@ -21,6 +21,7 @@ dependencies:
   language_picker: ^0.4.1
   country_pickers: ^2.0.0
   dartz: ^0.10.1
+  get_it: ^7.2.0
   # country_picker: ^2.0.15
 
 dev_dependencies:
